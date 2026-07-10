@@ -1,0 +1,8 @@
+//
+// Created by yuval on 10/07/2026.
+//
+
+#ifndef MAMAT_HW6_L3_H
+#define MAMAT_HW6_L3_H
+
+#endif //MAMAT_HW6_L3_H
